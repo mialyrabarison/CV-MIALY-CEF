@@ -120,7 +120,7 @@ main {
 	flex-basis: 30%; /* 30% de la largeur du conteneur */
     flex-shrink: 0;  /* Empêche la réduction de la largeur */
 }
-
+ 
 .experiences {
     padding: 25px;
 	flex-basis: 70%; /* 70% de la largeur du conteneur */
@@ -149,11 +149,13 @@ main {
 .title:hover .job-training {
     background-color: #782221;
 }
+ 
 .experiences h3,
 .experiences p,
 .experiences ul {
     padding: 10px;
 }
+ 
 footer {
     background-color: #782221;
     color: white;
