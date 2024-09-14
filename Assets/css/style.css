@@ -142,13 +142,13 @@ main {
 .job-training {
     width: 8px;
     height: 30px;
-    background-color: #782221;
+  background-color: #782221;
+     
 }
  
 .title:hover .job-training {
     background-color: #782221;
 }
- 
 .experiences h3,
 .experiences p,
 .experiences ul {
